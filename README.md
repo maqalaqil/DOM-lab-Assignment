@@ -1,7 +1,7 @@
-# Re:Coded Sana'a Bootcamp - Assignment 2 (CSS)
+# Re:Coded Sana'a Bootcamp - Assignment  (JS DOM)
 
 ## Overview
-This second assignment will go over the basics of styling.
+this assignment will be going more deep into sytling and creating with DOM
 
 ### Requirements
 1. Add a Centerd 46px title with red colors border
@@ -29,10 +29,9 @@ This second assignment will go over the basics of styling.
     4. Has a gray background
 
 
-<strong>Deadline: 7, July, 2020</strong>
+
 
 ### Submission
-After forking this repository and finishing <strong>ALL</strong> the requirements, please do a pull request so it can be review by any of the instructors.
 
 
 Good luck :D 
